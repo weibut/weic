@@ -1,0 +1,1 @@
+import{_ as r}from"./d-text-icon.995c3277.js";import{o,a as s}from"./vendor.d7d62f29.js";const t={class:"ac mt50 f14"};var a=r({},[["render",function(r,a){return o(),s("div",t,"暂无内容")}]]);export{a as _};

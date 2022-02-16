@@ -1,0 +1,1 @@
+import{b as o}from"./main.0c516264.js";import{_ as s}from"./d-text-icon.995c3277.js";import{o as t,a,j as e}from"./vendor.d7d62f29.js";const r={class:"app-buttons"};var i=s({setup:s=>(s,i)=>{const c=o;return t(),a("div",r,[e(c,{icon:"icon-home",size:"20",title:"设为主页"})])}},[["__scopeId","data-v-b92e21a2"]]);export{i as default};
